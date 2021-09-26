@@ -1,0 +1,37 @@
+public function nameoffunction()
+    {
+    
+        $rob = 12;
+        $rob = "string";
+
+
+        $arr = array();
+
+        $arr = ['rob','rob1','rob2','rob3','rob4','rob1','rob2','rob3','rob4'];
+        // echo $arr[3];
+        $a = 1;
+        $b = 2;
+        $c = 2;
+
+        // if($a < $b) //condition becomes true if is executed
+        // {
+        //     echo "i am in if ";
+        // }elseif{)
+
+        // }else
+        
+        // else { // else is executed on rejection of if
+        //     echo"I am in else";
+        // }
+
+
+        // foreach($arr as $rob_arr )
+        // {
+        //     echo($rob_arr);
+        //     echo"<br>"; // used to add a line break
+        // }
+
+       return view('robview2');
+
+
+    }
